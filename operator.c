@@ -16,11 +16,13 @@ int main(){
     // -- decrement
 
     int z = x + 4;
-    int z = y - 3;
+    int a = y - 3;
    
 
 
     printf("%d", z);
+    printf("%d", a);
+
 
 
 
