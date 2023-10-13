@@ -15,7 +15,17 @@ int main(){
     // ++ increment
     // -- decrement
 
-    int z 
+    int z = x + 4;
+    int z = y - 3;
+   
+
+
+    printf("%d", z);
+
+
+
+
+
 
     return 0;
 }
