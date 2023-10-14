@@ -29,6 +29,18 @@ int main(){
     printf("%d\n", y);
     printf("%d\n", z);
     printf("%d\n", e);
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+
+
+    z++;
+    y--;
+
+    printf("%d\n", z);
+    printf("%d\n", y);
+
 
 
     return 0;
