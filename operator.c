@@ -6,6 +6,8 @@ int main(){
 
     int x = 9;
     int y = 4;
+    int z = 12;
+    int e = 15;
 
     // + plus
     // - minus
@@ -15,18 +17,18 @@ int main(){
     // ++ increment
     // -- decrement
 
-    int z = x + 4;
-    int a = y - 3;
+    x += 4;
+    y -= 3;
+    z /= 6;
+    e %= 2;
+
    
 
 
-    printf("%d", z);
-    printf("%d", a);
-
-
-
-
-
+    printf("%d\n", x);
+    printf("%d\n", y);
+    printf("%d\n", z);
+    printf("%d\n", e);
 
 
     return 0;
